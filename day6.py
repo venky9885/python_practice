@@ -32,3 +32,11 @@ y = math.floor(1.4)
 print(x)  # returns 2
 print(y)  # returns 1
 x = math.pi
+
+
+dict_comprehension = {key: val for key, val in enumerate('sample')}
+print(dict_comprehension)
+for num, fruit, thing in zip([1, 2, 3], ['apple', 'grape', 'orange'], ['x', 2, True]):
+    print(num)
+    print(fruit)
+    print(thing)
