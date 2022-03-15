@@ -1,0 +1,16 @@
+In Linked List .py   Push,
+#understood
+
+Learn applications
+
+
+Checking conditions in delete,insert,,.
+#diff operations
+1. delete-dll-4c-ll1c
+2. append-Dll-2c/ll-2c
+3. search- dlll-f/back-/ll-f
+4. printAll-same
+
+
+
+In queue Pushback array
