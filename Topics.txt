@@ -1,19 +1,19 @@
-Basic syntax and definitions
+1.Basic syntax and definitions
     code
     definitions
-DSA
+2.DSA
     Udemy with code
     Ytube
 
-Aptitude
+3.Aptitude
     https://www.geeksforgeeks.org/placements-gq/
     and Downloaded Videos
-Interview
+4.Interview
     DBMS
     OS
     Networking
 
-Interview
+5.Interview
     Leet code
     Interview bit
     Carrer Cup
@@ -25,3 +25,15 @@ EB Criteria
 MCQ,Coding
 Tech Interview
 HR
+
+
+
+✔️
+Order
+1(1D), ✔️
+4(2D),
+5(2D),
+3(3D),
+2(4D sat,sun)✔️
+
+2REV NEDs
