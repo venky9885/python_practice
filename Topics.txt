@@ -1,0 +1,27 @@
+Basic syntax and definitions
+    code
+    definitions
+DSA
+    Udemy with code
+    Ytube
+
+Aptitude
+    https://www.geeksforgeeks.org/placements-gq/
+    and Downloaded Videos
+Interview
+    DBMS
+    OS
+    Networking
+
+Interview
+    Leet code
+    Interview bit
+    Carrer Cup
+#Topics
+https://docs.google.com/document/d/1bvrEwJfwSjV5Wbt8nvTDr6eXx76Nw12kd33ly-ePyxk/edit
+#All Dsa problems
+https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+EB Criteria
+MCQ,Coding
+Tech Interview
+HR
