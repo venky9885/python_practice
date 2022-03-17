@@ -9,6 +9,7 @@
     https://www.geeksforgeeks.org/placements-gq/
     and Downloaded Videos
 4.Interview
+    OOPS
     DBMS
     OS
     Networking
@@ -27,11 +28,31 @@ Tech Interview
 HR
 
 
+-------------------------------------------------------------------------------
+OOPS
 
+https://www.geeksforgeeks.org/python-oops-concepts/
+
+DBMS
+
+https://www.interviewbit.com/dbms-interview-questions/
+https://www.interviewbit.com/tutorial/sql-command-help/#sql-command-help
+https://www.softwaretestinghelp.com/top-dbms-interview-questions/
+https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo
+https://www.youtube.com/watch?v=BHmoFa-YSzw
+
+OS
+
+https://www.interviewbit.com/operating-system-interview-questions/
+
+Networking
+
+https://www.interviewbit.com/networking-interview-questions/
+-------------------------------------------------------------------------------
 ✔️
 Order
 1(1D), ✔️
-4(2D),
+4(5D),
 5(2D),
 3(3D),
 2(4D sat,sun)✔️
