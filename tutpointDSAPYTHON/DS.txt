@@ -1,0 +1,36 @@
+
+============Main 8 DS===============
+===========DATA StrucTures==========
+👋 LinkedList✓
+    Insert at End,Start,Middile
+    Creation,print
+    Deletion(at End,Start,Middile)
+👋 DoublyLinkedList
+👋 CircularLinkedList
+👋 Queues✓
+👋 Deque✓
+👋 Stack ✓
+👋 BinaryTree✓
+👋 BinarySearchTree✓
+👋 Heap
+👋 HashMaps
+👋 Graphs
+HeapSort
+SpanningTree
+=============Algorithms===========
+👋 DIVIDE AND CONQUER'
+👋 BACK TRACKING
+👋 SORTING
+Bubble Sort
+Merge Sort(, include Qucick sort)
+Insertion Sort
+Shell Sort
+Selection Sort
+👋 Searching Algorithms
+Linear Search
+Binary Search
+👋 Graph Algorithms
+Depth First Traversal
+Breadth First Traversal
+👋 Algorithms  Classes
+https://www.tutorialspoint.com/python_data_structure/python_algorithm_classes.htm

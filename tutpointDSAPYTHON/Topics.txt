@@ -1,18 +1,31 @@
-1.Basic syntax and definitions
-    code
-    definitions
-2.DSA
-    Udemy with code
-    Ytube
 
-3.Aptitude
+=============================START=========================================
+1.Basic syntax and definitions(5 days)
+    python and C and Java
+    code
+    Interview Questions
+    definitions
+ ======================================================================
+2.DSA(18 days)
+    (https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)codebasics 20q DSA
+    (https://www.youtube.com/c/CodeLibrary) CodeLibrary DSA 200 Q
+    Understand Recursion and Backtracking 
+    Along with Python DSA Interview quest frominterview bit
+    Udemy with code(check remaing programs)
+    Ytube
+======================================================================
+3.Aptitude(5 days)
     https://www.geeksforgeeks.org/placements-gq/
     and Downloaded Videos
-4.Interview
+======================================================================
+4.Interview(3 days)
     OOPS
     DBMS
     OS
     Networking
+======================================================================
+5.Practice complete all(ALL 31 Days) Programme
+======================================END===================================
 
 5.Interview
     Leet code
@@ -52,9 +65,10 @@ https://www.interviewbit.com/networking-interview-questions/
 ✔️
 Order
 1(1D), ✔️
-4(5D),
-5(2D),
-3(3D),
-2(4D sat,sun)✔️
+4(5D),(20-LD)
+5(2D),(23-LD)
+3(3D),(27-LD)
+2(4D sat,sun)✔️(3-LD)
 
 2REV NEDs
+
